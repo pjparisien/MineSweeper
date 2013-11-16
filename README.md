@@ -1,4 +1,0 @@
-MineSweeper
-===========
-
-MineSweeper Game
